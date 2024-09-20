@@ -8,7 +8,7 @@ composer require radicalloop/omnipay-acceptblue
 
 # Usage
 
-- check `tests` folder for examples.
+- check [tests](https://github.com/radicalloop/omnipay-acceptblue/tree/main/tests/Feature) folder for examples.
 - to run tests, you need to set the following environment variables:
 
 ```
